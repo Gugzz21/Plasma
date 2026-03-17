@@ -127,3 +127,62 @@ O **Plasma** propõe uma abordagem centrada no usuário:
 ---
 
 ## 📦 Estrutura do Projeto
+plasma/
+├── backend/
+│ ├── src/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ └── services/
+│
+├── frontend/
+│ ├── src/
+│ ├── components/
+│ ├── pages/
+│ └── services/
+│
+└── README.md
+
+
+
+---
+
+## ⚙️ Como Executar
+
+### Backend
+
+```bash
+cd backend
+npm install
+npm run dev
+````
+### Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+### 📈 Roadmap
+
+ Autenticação (JWT + Refresh Token)
+
+ Controle de permissões (RBAC)
+
+ Notificações em tempo real
+
+ Dashboard avançado
+
+ Integrações externas
+
+ Aplicativo mobile
+
+
+# 📄 Licença
+MIT
+
+# 💬 Considerações Finais
+
+O Plasma foi criado para simplificar a gestão ágil e tornar ferramentas poderosas acessíveis a qualquer equipe.
+
+Se outras soluções parecem complexas demais, o Plasma entrega exatamente o necessário — com eficiência, clareza e velocidade.
