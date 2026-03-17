@@ -129,18 +129,18 @@ O **Plasma** propõe uma abordagem centrada no usuário:
 ## 📦 Estrutura do Projeto
 plasma/ <br>
 ├── backend/ <br>
-│ ├── src/ <br> <br>
+│ ├── src/ <br>
 │ ├── controllers/ <br>
 │ ├── models/ <br>
 │ ├── routes/ <br>
 │ └── services/ <br>
-│ <br>
+│ 
 ├── frontend/ <br>
-│ ├── src/ <br> <br>
+│ ├── src/ <br>
 │ ├── components/ <br>
 │ ├── pages/ <br>
 │ └── services/ <br>
-│ <br>
+│
 └── README.md
 
 
